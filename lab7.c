@@ -4,8 +4,8 @@
 #include <locale.h>
 #include <math.h>
 #include <Windows.h>
-int task1();
 int task2();
+int task3();
 int main()
 {
 
